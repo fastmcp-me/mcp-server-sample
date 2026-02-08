@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1817/2025-tax-law-amendment-mcp-server)
+
 # 2025년 세법 개정안 MCP 서버
 
 이 프로젝트는 2025년 세법 개정안 PDF 문서를 기반으로 한 MCP(Model Context Protocol) 서버입니다. Vector DB와 LangChain을 활용하여 문서 내용을 검색하고 관련 정보를 제공합니다.
